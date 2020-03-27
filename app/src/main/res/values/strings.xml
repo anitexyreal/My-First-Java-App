@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First Java App</string>
+    <string name="full_name">Anietimfon Edet Effiong</string>
+    <string name="slack_name">Slack Username: anitexyreal</string>
+    <string name="track">Mobile Development</string>
+    <string name="email">anietimfoneeffiong@gmail.com</string>
+</resources>
